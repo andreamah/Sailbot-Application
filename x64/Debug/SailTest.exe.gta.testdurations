@@ -59,5 +59,7 @@
     <TestDuration Test="IsAngleBetweenTest.ExtraCornerTest2" Duration="1" />
     <TestDuration Test="BoundTo180Test.ExtraRandomTest4" Duration="1" />
     <TestDuration Test="BoundTo180Test.ExtraRandomTest5" Duration="1" />
+    <TestDuration Test="FooTest.PDFTest1" Duration="1" />
+    <TestDuration Test="BoundTo180Test.ExtraCornerTest6" Duration="1" />
   </TestDurations>
 </GtaTestDurations>
