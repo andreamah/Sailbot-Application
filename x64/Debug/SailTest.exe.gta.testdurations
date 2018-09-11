@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\andre\source\repos\SailBotApplication\x64\Debug\SailTest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="TestCaseName1.TestName1" Duration="1" />
+    <TestDuration Test="TestCaseName10.TestName10" Duration="1" />
+    <TestDuration Test="TestCaseName2.TestName2" Duration="1" />
+    <TestDuration Test="TestCaseName3.TestName3" Duration="1" />
+    <TestDuration Test="TestCaseName4.TestName4" Duration="1" />
+    <TestDuration Test="TestCaseName.BoundTo180Test" Duration="1" />
+    <TestDuration Test="TestCaseName1.BoundTo180Test" Duration="1" />
+    <TestDuration Test="TestCaseName10.BoundTo180Test" Duration="1" />
+    <TestDuration Test="TestCaseName2.BoundTo180Test" Duration="1" />
+    <TestDuration Test="PDFTest1.BoundTo180Test" Duration="1" />
+    <TestDuration Test="PDFTest2.BoundTo180Test" Duration="1" />
+    <TestDuration Test="PDFTest3.BoundTo180Test" Duration="1" />
+    <TestDuration Test="ExtraTest1.BoundTo180Test" Duration="1" />
+    <TestDuration Test="PDFTest1.IsAngleBetweenTest" Duration="1" />
+    <TestDuration Test="PDFTest2.IsAngleBetweenTest" Duration="1" />
+    <TestDuration Test="ExtraTest2.BoundTo180Test" Duration="1" />
+    <TestDuration Test="ExtraTest3.BoundTo180Test" Duration="1" />
+    <TestDuration Test="ExtraTest4.BoundTo180Test" Duration="1" />
+    <TestDuration Test="ExtraTest5.BoundTo180Test" Duration="1" />
+    <TestDuration Test="BoundTo180Test.PDFTest1" Duration="1" />
+    <TestDuration Test="BoundTo180Test.PDFTest2" Duration="1" />
+    <TestDuration Test="BoundTo180Test.PDFTest3" Duration="1" />
+    <TestDuration Test="BoundTo180Test.ExtraTest1" Duration="1" />
+    <TestDuration Test="BoundTo180Test.ExtraTest2" Duration="1" />
+    <TestDuration Test="BoundTo180Test.ExtraTest3" Duration="1" />
+    <TestDuration Test="BoundTo180Test.ExtraTest4" Duration="1" />
+    <TestDuration Test="BoundTo180Test.ExtraTest5" Duration="1" />
+    <TestDuration Test="IsAngleBetweenTest.PDFTest1" Duration="1" />
+    <TestDuration Test="IsAngleBetweenTest.PDFTest2" Duration="1" />
+    <TestDuration Test="BoundTo180Test.ExtraTest6" Duration="1" />
+    <TestDuration Test="BoundTo180Test.ExtraTest7" Duration="1" />
+    <TestDuration Test="BoundTo180Test.ExtraTest8" Duration="1" />
+    <TestDuration Test="BoundTo180Test.ExtraRandomTest1" Duration="1" />
+    <TestDuration Test="BoundTo180Test.ExtraRandomTest2" Duration="1" />
+    <TestDuration Test="BoundTo180Test.ExtraRandomTest3" Duration="1" />
+    <TestDuration Test="BoundTo180Test.ExtraCornerTest1" Duration="1" />
+    <TestDuration Test="BoundTo180Test.ExtraCornerTest2" Duration="1" />
+    <TestDuration Test="BoundTo180Test.ExtraCornerTest3" Duration="1" />
+    <TestDuration Test="BoundTo180Test.ExtraCornerTest4" Duration="1" />
+    <TestDuration Test="BoundTo180Test.ExtraCornerTest5" Duration="1" />
+    <TestDuration Test="IsAngleBetweenTest.ExtraTest1" Duration="1" />
+    <TestDuration Test="IsAngleBetweenTest.ExtraTest2" Duration="1" />
+    <TestDuration Test="IsAngleBetweenTest.ExtraTest3" Duration="1" />
+    <TestDuration Test="IsAngleBetweenTest.ExtraTest4" Duration="1" />
+    <TestDuration Test="IsAngleBetweenTest.ExtraTest5" Duration="1" />
+    <TestDuration Test="IsAngleBetweenTest.ExtraTest6" Duration="1" />
+    <TestDuration Test="IsAngleBetweenTest.ExtraTest7" Duration="1" />
+    <TestDuration Test="IsAngleBetweenTest.ExtraRandomTest1" Duration="1" />
+    <TestDuration Test="IsAngleBetweenTest.ExtraRandomTest2" Duration="1" />
+    <TestDuration Test="IsAngleBetweenTest.ExtraRandomTest3" Duration="1" />
+    <TestDuration Test="IsAngleBetweenTest.ExtraRandomTest4" Duration="1" />
+    <TestDuration Test="IsAngleBetweenTest.ExtraRandomTest5" Duration="1" />
+    <TestDuration Test="IsAngleBetweenTest.ExtraCornerTest1" Duration="1" />
+    <TestDuration Test="IsAngleBetweenTest.ExtraCornerTest2" Duration="1" />
+    <TestDuration Test="BoundTo180Test.ExtraRandomTest4" Duration="1" />
+    <TestDuration Test="BoundTo180Test.ExtraRandomTest5" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
